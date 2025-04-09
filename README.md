@@ -1,9 +1,9 @@
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Anderson and I'm a year 3 student, from the University of Hong Kong</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.postimg.cc/zBM5dLQr/CG-410.png"  />
+<img align="right" height="150" src= "https://i.postimg.cc/pTv1PPnF/download.jpg"  />
 
 ###
 
