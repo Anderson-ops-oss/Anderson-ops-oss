@@ -28,7 +28,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/dist/snake/snake.svg" alt="Snake animation" width="80%" />
+  <img src="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/snake/snake.svg" alt="Snake animation" width="80%" />
 </div>
 
 <div align="center">
@@ -37,8 +37,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/dist/pacman/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/dist/pacman/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/dist/pacman/pacman-contribution-graph.svg" width="80%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/pacman-contribution-graph.svg" width="80%" />
   </picture>
 </div>
