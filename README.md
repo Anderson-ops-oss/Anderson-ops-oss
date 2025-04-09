@@ -9,8 +9,8 @@
   </div>
   <div style="flex: 1;">
     <h3 align="center">About Me</h3>
-    <p align="left">
-      I’m passionate about <strong>playing basketball</strong> and <strong>hiking</strong> in my free time. Currently, I’m diving into <strong>Artificial Intelligence</strong> and <strong>Cybersecurity</strong>, exploring how technology shapes the future.
+    <p align="center">
+      Currently, I’m diving into <strong>Artificial Intelligence</strong> and <strong>Cybersecurity</strong>, exploring how technology shapes the future.
     </p>
   </div>
 </div>
