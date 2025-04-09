@@ -1,11 +1,18 @@
 <h2 align="center">Hi 👋! I'm Cheng Chak Yuen, a Computer Science Student from Hong Kong</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anderson-ops-oss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://i.postimg.cc/0NSNJ12n/CG.jpg" height="150" style="border-radius: 50%; border: 3px solid #00ffcc;" alt="Cheng Chak Yuen" />
+<div style="display: flex; justify-content: space-between; max-width: 800px; margin: 20px auto;">
+  <div style="flex: 1; margin-right: 20px;">
+    <h3 align="center">Most Used Languages</h3>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anderson-ops-oss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+    </div>
+  </div>
+  <div style="flex: 1;">
+    <h3 align="center">About Me</h3>
+    <p align="left">
+      I’m passionate about <strong>playing basketball</strong> and <strong>hiking</strong> in my free time. Currently, I’m diving into <strong>Artificial Intelligence</strong> and <strong>Cybersecurity</strong>, exploring how technology shapes the future.
+    </p>
+  </div>
 </div>
 
 <div align="center" style="margin: 20px 0;">
