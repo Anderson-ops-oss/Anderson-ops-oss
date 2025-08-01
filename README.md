@@ -40,10 +40,6 @@
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://profile-counter.glitch.me/Anderson-ops-oss/count.svg?" alt="Profile views" />
-</div>
-
-<div align="center" style="margin: 20px 0;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/pacman-contribution-graph.svg">
