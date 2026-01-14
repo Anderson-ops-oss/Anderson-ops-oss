@@ -36,13 +36,13 @@
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/snake/snake.svg" alt="Snake animation" width="80%" />
+  <img src="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson-ops-oss/output/snake.svg" alt="Snake animation" width="80%" />
 </div>
 
 <div align="center" style="margin: 20px 0;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson/output/pacman-contribution-graph.svg" width="80%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson-ops-oss/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson-ops-oss/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Anderson-ops-oss/Anderson-ops-oss/output/pacman-contribution-graph.svg" width="80%" />
   </picture>
 </div>
