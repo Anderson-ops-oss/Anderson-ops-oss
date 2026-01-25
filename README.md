@@ -3,7 +3,7 @@
   <div style="flex: 1; margin-right: 20px;">
     <h3 align="center">Most Used Languages</h3>
     <div align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anderson-ops-oss&theme=tokyonight" height="150" alt="languages graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anderson-ops-oss&layout=compact&langs_count=10&theme=tokyonight" height="150" alt="languages graph" />
     </div>
   </div>
   <div style="flex: 1;">
